@@ -1,0 +1,36 @@
+{
+    "name": "Fungi #2",
+    "image": "ipfs://QmWFHdCkyZ6DmbTPVeQKeUQXBeREtPfqwqXJtSk6fVeX6i/2.mp4",
+    "external_url": "https://www.thefungi.app/",
+    "description": "The Non-Fungible Fungi collective is a kingdom of 10,100 unique 3D animated (and enchanted) Mushroom NFTs strolling through the Ethereum blockchain. Each Mushroom falls into 1 of 3 species, Magic, Mire-able and Bog Standard with Magic being the rarest and Bog Standard being the most common.\n\nThe Genesis Collection provide us with the grandfather traits and from there we have a multitude of different traits ranging in both rarity and looks which make up the 10,000 Generative Collection.",
+    "attributes": [
+        {
+            "trait_type": "Stem",
+            "value": "mushy green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "verawood"
+        },
+        {
+            "trait_type": "Species",
+            "value": "mire-able"
+        },
+        {
+            "trait_type": "Generation",
+            "value": "Generative"
+        },
+        {
+            "trait_type": "Biome",
+            "value": "tundra"
+        },
+        {
+            "trait_type": "Cap",
+            "value": "rugged grey"
+        },
+        {
+            "trait_type": "Charm 1",
+            "value": "lodged sushi knife"
+        }
+    ]
+}
