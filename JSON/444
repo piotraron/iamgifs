@@ -1,0 +1,40 @@
+{
+    "name": "iAM #444 Sagittarius",
+    "id": "444",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/444.mp4",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Elemental"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Interstellar"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Strange"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Planetary"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Primordial"
+        }
+    ]
+}

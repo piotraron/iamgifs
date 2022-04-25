@@ -1,0 +1,40 @@
+{
+    "name": "iAM #438 Noun 4",
+    "id": "438",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/438.png",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Elemental"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Jewelry"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Weapon"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Noun"
+        }
+    ]
+}

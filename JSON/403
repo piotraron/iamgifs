@@ -1,0 +1,48 @@
+{
+    "name": "iAM #403 Weird",
+    "id": "403",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/403.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Creature"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Collaborative"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Gas Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tie"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Whiskers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Binoculars"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Turtleneck"
+        }
+    ]
+}

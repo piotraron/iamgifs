@@ -1,0 +1,24 @@
+{
+    "name": "iAM #474",
+    "id": "474",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/474.png",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Elemental"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Edible"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dead Eyes"
+        }
+    ]
+}
