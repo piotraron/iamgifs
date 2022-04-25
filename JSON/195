@@ -1,0 +1,48 @@
+{
+    "name": "iAM #195 Ape Gang",
+    "id": "195",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/195.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fashion"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Jewelry"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Tuft"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Collaborative"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Monocle"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bubble Gum"
+        }
+    ]
+}

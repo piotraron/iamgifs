@@ -1,0 +1,36 @@
+{
+    "name": "iAM #108 OnlyOnePixel",
+    "id": "108",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/108.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Tuft"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Pixelated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Strange"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

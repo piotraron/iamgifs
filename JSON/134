@@ -1,0 +1,24 @@
+{
+    "name": "iAM #134",
+    "id": "134",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/134.png",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Loot"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dead Eyes"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Brain"
+        }
+    ]
+}

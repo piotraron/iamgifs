@@ -1,0 +1,28 @@
+{
+    "name": "iAM #103 16Bit",
+    "id": "103",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/103.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Curls"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Pixelated"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Zombie"
+        }
+    ]
+}

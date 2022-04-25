@@ -1,0 +1,40 @@
+{
+    "name": "iAM #200 AlfDen",
+    "id": "200",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/200.mp4",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Jewelry"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Collaborative"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Nonk"
+        }
+    ]
+}
