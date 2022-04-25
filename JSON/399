@@ -1,0 +1,24 @@
+{
+    "name": "iAM #399",
+    "id": "399",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/399.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Antenna"
+        }
+    ]
+}

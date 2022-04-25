@@ -1,0 +1,32 @@
+{
+    "name": "iAM #320 Jack",
+    "id": "320",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/320.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Edible"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Loot"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Turtleneck"
+        }
+    ]
+}
