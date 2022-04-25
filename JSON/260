@@ -1,0 +1,36 @@
+{
+    "name": "iAM #260",
+    "id": "260",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/260.png",
+    "attributes": [
+        {
+            "trait_type": "Accessory",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fashion"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Jewelry"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tattoo"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Messy"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Headband"
+        }
+    ]
+}
