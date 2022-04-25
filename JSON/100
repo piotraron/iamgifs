@@ -1,0 +1,48 @@
+{
+    "name": "iAM #100 Animated",
+    "id": "100",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/100.mp4",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Jewelry"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Tuft"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Shapeshifter"
+        }
+    ]
+}

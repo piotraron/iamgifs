@@ -1,0 +1,28 @@
+{
+    "name": "iAM #65 Paris",
+    "id": "65",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/65.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Jewelry"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Prickly"
+        }
+    ]
+}
