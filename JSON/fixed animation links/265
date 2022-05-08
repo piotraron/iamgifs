@@ -1,0 +1,45 @@
+{
+    "name": "iAM #265 Conduit",
+    "id": "265",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/265.gif",
+    "animation_url": "https://raw.githubusercontent.com/artistthebob/iams/main/265.mp4",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Elemental"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Aquatic"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Monocle"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Anime"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fused"
+        }
+    ]
+}

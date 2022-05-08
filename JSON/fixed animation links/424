@@ -1,0 +1,45 @@
+{
+    "name": "iAM #424 Khaos",
+    "id": "424",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/424.gif",
+    "animation_url": "https://raw.githubusercontent.com/artistthebob/iams/main/424.mp4",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Strange"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tattoo"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fused"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Planetary"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Primordial"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "iAM #333 Starburst",
+    "id": "333",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/333.gif",
+    "animation_url": "https://raw.githubusercontent.com/artistthebob/iams/main/333.mp4",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Tuft"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Magic"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Interstellar"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fused"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Antenna"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Armor"
+        }
+    ]
+}

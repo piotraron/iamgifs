@@ -1,0 +1,45 @@
+{
+    "name": "iAM #350 Scatter Brain",
+    "id": "350",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/350.gif",
+    "animation_url": "https://raw.githubusercontent.com/artistthebob/iams/main/350.mp4",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Brain"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fiery"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fused"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Binoculars"
+        }
+    ]
+}

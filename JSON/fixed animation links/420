@@ -1,0 +1,41 @@
+{
+    "name": "iAM #420 Mary Jane",
+    "id": "420",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/420.gif",
+    "animation_url": "https://raw.githubusercontent.com/artistthebob/iams/main/420.mp4",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Elemental"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Magic"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Strange"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "High"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fluffy"
+        }
+    ]
+}

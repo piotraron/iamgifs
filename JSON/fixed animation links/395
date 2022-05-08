@@ -1,0 +1,53 @@
+{
+    "name": "iAM #395 Midas",
+    "id": "395",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.\n483/500 minted, all 1/1.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/395.gif",
+    "animation_url": "https://raw.githubusercontent.com/artistthebob/iams/main/395.mp4",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Tuft"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Visor"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Animated"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bubble Gum"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fused"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Antenna"
+        }
+    ]
+}
